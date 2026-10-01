@@ -1,0 +1,10 @@
+{
+  "name": "asd7-node-app",
+  "version": "1.0.0",
+  "description": "Node.js application for GitHub Actions deployment practical",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node build.js"
+  }
+}
